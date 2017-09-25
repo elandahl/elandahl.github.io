@@ -9,5 +9,5 @@ First test post.
 
 ![photo](https://github.com/elandahl/elandahl.github.io/blob/master/images/landahl-web-3.jpg "Logo Title Text 1")
 
-
+end of blog test.
 
