@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Dr. Landahl has been building computers and scientific instruments for over 40 years and is available to help the DePaul community with their projects as the Maker-In-Residence at the Library’s new MakerHub.  He is an author of over 50 scientific publications and has worked at three different National Laboratories.  As an Associate Professor in the [DePaul Physics Department] he teaches Experimental Physics and Electronics.  
+Dr. Landahl has been building computers and scientific instruments for over 40 years and is available to help the DePaul community with their projects as the Maker-In-Residence at the Library’s new MakerHub.  He is an author of over 50 scientific publications and has worked at three different National Laboratories.  As an Associate Professor in the [DePaul Physics Department](https://csh.depaul.edu/academics/physics/Pages/default.aspx) he teaches Experimental Physics and Electronics.  
 
 ### Practical Skills
 
