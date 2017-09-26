@@ -9,7 +9,7 @@ Events, News and Networking for the Maker community at DePaul.  Written in blog 
          
 # Contributions and Comments
 
-Direct correspondence to Eric Landahl, [elandahl@depaul.edu](mail to: elandahl@depaul.edu)
+Direct correspondence to Eric Landahl, [elandahl@depaul.edu](mailto:elandahl@depaul.edu)
 
 # Credits
 
