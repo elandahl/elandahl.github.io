@@ -1,15 +1,15 @@
 ---
 layout: post
-title: Opening of Maker Hub September 27
+title: Opening of Maker Hub Wednesday September 27
 ---
 
-# Grand Opening Of The Library’s 1581 Media Studios And Maker Hub
+Join the us for the grand opening of the next phase of the Library’s 1581 Media Studios And Maker Hub.  
 
 Wednesday, September 27 at 2:00pm to 4:30pm
 
 Library - Richardson Library Lincoln Park Campus, 2nd floor 2350 N Kenmore Ave
 
-Join the us for the grand opening of the next phase of the John T. Richardson Library’s renovation.  While work continues on some of the details for the new offerings, we look forward to introducing faculty and staff to the new spaces and services that will be available to you and your students.
+While work continues on some of the details for the new offerings, we look forward to introducing faculty and staff to the new spaces and services that will be available to you and your students.
  
 Open house and tours begin at 2 pm. Remarks from the DePaul University President A. Gabriel Esteban and others at 3 pm. 
  
