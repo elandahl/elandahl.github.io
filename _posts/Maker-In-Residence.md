@@ -3,16 +3,14 @@ layout: post
 title: Maker-In-Residence starts Friday October 20
 ---
 
-# Starting Friday October 20, 2017
+## Maker-in-Residence ![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+## *“Ask me a question!”*
 
-# Maker-in-Residence
-# “Ask me a question!”
+** Fridays, Richardson Library Maker Hub **
+** Walk in anytime between 10:30 A.M. and 5:00 P.M. **
+** Other times as posted **
 
-## Fridays, Richardson Library Maker Hub
-## Walk in anytime between 10:30 A.M. and 5:00 P.M.
-## Other times as posted
-
-## Get expert help for your classes, projects, clubs, and research!
+*Get expert help for your classes, projects, clubs, and research!*
 
 Dr. Landahl has been building computers and scientific instruments for over 40 years and is available to help the DePaul community with their projects as the Maker-In-Residence at the Library’s new MakerHub.  He is an author of over 50 scientific publications and has worked at three different National Laboratories.  As an Associate Professor in the [DePaul Physics Department](https://csh.depaul.edu/academics/physics/Pages/default.aspx) he teaches Experimental Physics and Electronics. 
 
