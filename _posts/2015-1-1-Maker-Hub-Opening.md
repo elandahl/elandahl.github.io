@@ -3,7 +3,7 @@ layout: post
 title: Opening of Maker Hub Wednesday September 27
 ---
 
-*Join the us for the grand opening of the Library’s 1581 Media Studios And Maker Hub.*  
+*Come to the grand opening of the Library’s 1581 Media Studios and Maker Hub.*  
 
 Wednesday, September 27 at 2:00pm to 4:30pm
 {: style="text-align: center"}
