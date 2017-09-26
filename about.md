@@ -36,5 +36,7 @@ Dr. Landahl has been building computers and scientific instruments for over 40 y
 ### Contact 
 
 [elandahl@depaul.edu](mailto:elandahl@depaul.edu)
+
 [Faculty Profile](https://csh.depaul.edu/faculty-staff/faculty-a-z/Pages/physics/eric-landahl.aspx)
+
 [Research Website](https://sites.google.com/site/elandahl/Home)
