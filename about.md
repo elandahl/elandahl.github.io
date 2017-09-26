@@ -4,7 +4,8 @@ title: About
 permalink: /about/
 ---
 
-Dr. Landahl has been building computers and scientific instruments for over 40 years and is available to help the DePaul community with their projects as the Maker-In-Residence at the Library’s new MakerHub.  He is an author of over 50 scientific publications and has worked at three different National Laboratories.  As an Associate Professor in the [DePaul Physics Department](https://csh.depaul.edu/academics/physics/Pages/default.aspx) he teaches Experimental Physics and Electronics.  
+
+Eric Landahl has been building computers and scientific instruments for over 40 years and is available to help the DePaul community with their projects as the Maker-In-Residence at the Library’s new MakerHub.  He is an author of over 50 scientific publications and has worked at three different National Laboratories.  As an Associate Professor in the [DePaul Physics Department](https://csh.depaul.edu/academics/physics/Pages/default.aspx) he teaches Experimental Physics and Electronics.  
 
 ### Practical Skills
 
@@ -20,10 +21,10 @@ Dr. Landahl has been building computers and scientific instruments for over 40 y
 
 ### Some Current Projects
 
-  * Smart pixel detectors
-  * Acoustics demonstrations using Sonic Pi
+  * [Smart pixel detectors](https://doi.org/10.1107/S1600577515018044)
+  * Acoustics demonstrations using [Sonic Pi](http://sonic-pi.net/)
   * Dynamic ePortfolios
-  * 3D printed mathematical surfaces
+  * [3D printed mathematical surfaces](https://www.thingiverse.com/thing:561757)
   * Games based on thermodynamic driving forces
   * FPGAs for sensors
 
@@ -33,10 +34,10 @@ Dr. Landahl has been building computers and scientific instruments for over 40 y
   * Nanoscale transport in semiconductors
   * Time-resolved x-ray science
 
-### Contact 
+### Email and Web
 
-[elandahl@depaul.edu](mailto:elandahl@depaul.edu)
+  [elandahl@depaul.edu](mailto:elandahl@depaul.edu)
 
-[Faculty Profile](https://csh.depaul.edu/faculty-staff/faculty-a-z/Pages/physics/eric-landahl.aspx)
+  [Faculty Profile](https://csh.depaul.edu/faculty-staff/faculty-a-z/Pages/physics/eric-landahl.aspx)
 
-[Research Website](https://sites.google.com/site/elandahl/Home)
+  [Research Website](https://sites.google.com/site/elandahl/Home)
