@@ -1,12 +1,12 @@
 ---
 layout: post
-title: Maker-In-Residence
+title: Maker-In-Residence starts Friday October 20
 ---
 
-#### Starting Friday October 20, 2017
+# Starting Friday October 20, 2017
 
-#### Maker-in-Residence
-#### “Ask me a question!”
+# Maker-in-Residence
+# “Ask me a question!”
 
 ## Fridays, Richardson Library Maker Hub
 ## Walk in anytime between 10:30 A.M. and 5:00 P.M.
