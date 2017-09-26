@@ -4,12 +4,37 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Dr. Landahl has been building computers and scientific instruments for over 40 years and is available to help the DePaul community with their projects as the Maker-In-Residence at the Library’s new MakerHub.  He is an author of over 50 scientific publications and has worked at three different National Laboratories.  As an Associate Professor in the [DePaul Physics Department] he teaches Experimental Physics and Electronics.  
 
-### More Information
+### Practical Skills
 
-A place to include any other types of information that you'd like to include about yourself.
+  * Electronic circuits and wiring
+  * Computers, robotics, and Internet-of-Things
+  * Sensors, remote control, and wireless communication
+  * Websites and programming
+  * Cameras, image processing, and optics
+  * Data acquisition and analysis
+  * 3D design and fabrication
+  * Project enclosures
+  * Working with plastic, wood, plexiglass, metal, and other materials
 
-### Contact me
+### Some Current Projects
 
-[email@domain.com](mailto:email@domain.com)
+  * Smart pixel detectors
+  * Acoustics demonstrations using Sonic Pi
+  * Dynamic ePortfolios
+  * 3D printed mathematical surfaces
+  * Games based on thermodynamic driving forces
+  * FPGAs for sensors
+
+### Research Interests
+
+  * Intense laser-matter interactions
+  * Nanoscale transport in semiconductors
+  * Time-resolved x-ray science
+
+### Contact 
+
+[elandahl@depaul.edu](mailto:elandahl@depaul.edu)
+[Faculty Profile](https://csh.depaul.edu/faculty-staff/faculty-a-z/Pages/physics/eric-landahl.aspx)
+[Research Website](https://sites.google.com/site/elandahl/Home)
