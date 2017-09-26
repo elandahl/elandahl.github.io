@@ -13,7 +13,7 @@ Direct correspondence to Eric Landahl, [elandahl@depaul.edu](mailto:elandahl@dep
 
 # Credits
 
-Written using **Jekyll**, a static site generator that's perfect for GitHub hosted blogs ([Jekyll Repository](https://github.com/jekyll/jekyll)).  Based on the **Jekyll Now** temploate that makes it easier to create Jekyll blogs by eliminating a lot of the front setup ([Jekyll Now Repository](ttps://github.com/barryclark/jekyll-now)). 
+Written using **Jekyll**, a static site generator that's perfect for GitHub hosted blogs ([Jekyll Repository](https://github.com/jekyll/jekyll)).  Based on the **Jekyll Now** temploate that makes it easier to create Jekyll blogs by eliminating a lot of the front setup ([Jekyll Now Repository](https://github.com/barryclark/jekyll-now)). 
 
 Email distribution is done using [Tiny Letter](https://tinyletter.com/) and the blog is maintained on [GitHub](www.github.com).
 
