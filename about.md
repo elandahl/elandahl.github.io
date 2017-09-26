@@ -4,41 +4,22 @@ title: About
 permalink: /about/
 ---
 
+# DePaul Makes
 
-Eric Landahl has been building computers and scientific instruments for over 40 years and is available to help the DePaul community with their projects as the Maker-In-Residence at the Library’s new MakerHub.  He is an author of over 50 scientific publications and has worked at three different National Laboratories.  As an Associate Professor in the [DePaul Physics Department](https://csh.depaul.edu/academics/physics/Pages/default.aspx) he teaches Experimental Physics and Electronics.  
+Events, News and Networking for the Maker community at DePaul.  Written in blog format and delivered by weekly email digest.
 
-### Practical Skills
+# [View the blog](https://elandahl.github.io/)
 
-  * Electronic circuits and wiring
-  * Computers, robotics, and Internet-of-Things
-  * Sensors, remote control, and wireless communication
-  * Websites and programming
-  * Cameras, image processing, and optics
-  * Data acquisition and analysis
-  * 3D design and fabrication
-  * Project enclosures
-  * Working with plastic, wood, plexiglass, metal, and other materials
+# [Subscribe](https://tinyletter.com/elandahl)
+         
+# Contributions and Comments
 
-### Some Current Projects
+Direct correspondence to Eric Landahl, [elandahl@depaul.edu](mailto:elandahl@depaul.edu)
 
-  * [Smart pixel detectors](https://doi.org/10.1107/S1600577515018044)
-  * Acoustics demonstrations using [Sonic Pi](http://sonic-pi.net/)
-  * Dynamic ePortfolios
-  * [3D printed mathematical surfaces](https://www.thingiverse.com/thing:561757)
-  * Games based on thermodynamic driving forces
-  * FPGAs for sensors
-  * [Octave for instrumentation control on the Raspberry Pi](https://github.com/DPU-SENS)
+# Credits
 
-### Research Interests
+Written using **Jekyll**, a static site generator that's perfect for GitHub hosted blogs ([Jekyll Repository](https://github.com/jekyll/jekyll)).  
 
-  * Intense laser-matter interactions
-  * Nanoscale transport in semiconductors
-  * Time-resolved x-ray science
+Based on the **Jekyll Now** template that makes it easier to create Jekyll blogs by eliminating a lot of the front setup ([Jekyll Now Repository](https://github.com/barryclark/jekyll-now)). 
 
-### Email and Web
-
-  [elandahl@depaul.edu](mailto:elandahl@depaul.edu)
-
-  [Faculty Profile](https://csh.depaul.edu/faculty-staff/faculty-a-z/Pages/physics/eric-landahl.aspx)
-
-  [Research Website](https://sites.google.com/site/elandahl/Home)
+Email distribution is done using [Tiny Letter](https://tinyletter.com/) and the blog is maintained on [GitHub](www.github.com).
