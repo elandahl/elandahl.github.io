@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Maker-In-Residence Starts Friday October 20
+title: Opening of Maker Hub September 27
 ---
 
 # Grand Opening Of The Library’s 1581 Media Studios And Maker Hub
