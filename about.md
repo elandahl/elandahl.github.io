@@ -4,13 +4,11 @@ title: About
 permalink: /about/
 ---
 
-# DePaul Makes
+**DePaul Makes** is for events, news, and networking in the DePaul University Maker community.  The newsletter is written in blog format and delivered by weekly email digest.
 
-Events, News and Networking for the Maker community at DePaul.  Written in blog format and delivered by weekly email digest.
+[View the blog](https://elandahl.github.io/)
 
-# [View the blog](https://elandahl.github.io/)
-
-# [Subscribe](https://tinyletter.com/elandahl)
+[Subscribe](https://tinyletter.com/elandahl)
          
 # Contributions and Comments
 
