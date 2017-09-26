@@ -6,8 +6,10 @@ title: Opening of Maker Hub Wednesday September 27
 *Join the us for the grand opening of the next phase of the Library’s 1581 Media Studios And Maker Hub.*  
 
 Wednesday, September 27 at 2:00pm to 4:30pm
+{: style="text-align: center"}
 
-Library - Richardson Library Lincoln Park Campus, 2nd floor 2350 N Kenmore Ave
+Richardson Library Lincoln Park Campus, 2nd floor 2350 N Kenmore Ave
+{: style="text-align: center"}
 
 While work continues on some of the details for the new offerings, we look forward to introducing faculty and staff to the new spaces and services that will be available to you and your students.
  
