@@ -10,11 +10,11 @@ permalink: /about/
 
 [Subscribe](https://tinyletter.com/elandahl)
          
-# Contributions and Comments
+### Contributions and Comments
 
 Direct correspondence to Eric Landahl, [elandahl@depaul.edu](mailto:elandahl@depaul.edu)
 
-# Credits
+### Credits
 
 Written using **Jekyll**, a static site generator that's perfect for GitHub hosted blogs ([Jekyll Repository](https://github.com/jekyll/jekyll)).  
 
