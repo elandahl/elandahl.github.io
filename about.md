@@ -27,6 +27,7 @@ Eric Landahl has been building computers and scientific instruments for over 40 
   * [3D printed mathematical surfaces](https://www.thingiverse.com/thing:561757)
   * Games based on thermodynamic driving forces
   * FPGAs for sensors
+  * [Octave for instrumentation control on the Raspberry Pi](https://github.com/DPU-SENS)
 
 ### Research Interests
 
