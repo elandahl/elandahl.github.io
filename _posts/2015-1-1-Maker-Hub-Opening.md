@@ -33,4 +33,4 @@ Open houses and demonstrations include:
   
   * Research and Instruction Services Open House
  
-Refreshments will be served.  [RSVP requested.](https://events.depaul.edu/event/grand_opening_of_the_librarys_1581_digital_studios_and_maker_hub#.Wcpj5kuGND8)
+Refreshments will be served.  [RSVP requested.](https://events.depaul.edu/event/grand_opening_of_the_librarys_1581_digital_studios_and_maker_hub#.Wcpj5kuGND8)  
