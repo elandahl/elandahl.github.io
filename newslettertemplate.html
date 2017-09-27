@@ -1,2 +1,14 @@
 
-<h1>Test</h1>
+
+---
+layout: none
+---
+
+<!-- site logo -->
+<a href="https://elandahl.github.io/">DePaul Makes Newsletter</a>
+
+{% for post in site.posts limit:6 %}
+<h2>{{post.title}}</h2>
+<p><a href="{{post.url}}">Read more &raquo;</a></p>
+
+{% endfor %}
