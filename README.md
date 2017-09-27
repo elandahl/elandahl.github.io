@@ -5,7 +5,7 @@ Events, News and Networking for the Maker community at DePaul.  Written in blog 
 
 # [View the blog](https://elandahl.github.io/)
 
-# [Subscribe](https://tinyletter.com/elandahl)
+# [Email subscription](https://groups.google.com/forum/#!forum/depaul-makes)
          
 # Contributions and Comments
 
