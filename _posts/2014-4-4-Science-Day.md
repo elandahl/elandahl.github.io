@@ -13,4 +13,4 @@ title: Science Day Friday September 29
 
 Refreshments will be served.  
 
-![/images/Science-Day.pdf]
+![elandahl.github.io/images/Science-Day.pdf]
