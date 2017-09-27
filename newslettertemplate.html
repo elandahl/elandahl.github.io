@@ -7,8 +7,17 @@ layout: none
 <!-- site logo -->
 <a href="https://elandahl.github.io/">DePaul Makes Newsletter</a>
 
-{% for post in site.posts limit:6 %}
-<h2>{{post.title}}</h2>
-<p><a href="{{post.url}}">Read more &raquo;</a></p>
+<div class="posts">
+  {% for post in site.posts %}
+    <article class="post">
 
-{% endfor %}
+      <h3><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h3>
+
+      <div class="entry">
+        <small>{{ post.excerpt }}</small>
+      </div>
+
+      <small><a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a></small>
+    </article>
+  {% endfor %}
+</div>
