@@ -13,4 +13,4 @@ title: Science Day Friday September 29
 
 Refreshments will be served.  
 
-![Science Day Flyer](elandahl.github.io/images/Science-Day.pdf)
+[Science Day Flyer](elandahl.github.io/images/Science-Day.pdf)
