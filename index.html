@@ -9,10 +9,10 @@ layout: default
       <h3><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h3>
 
       <div class="entry">
-        {{ post.excerpt }}
+        <h6>{{ post.excerpt }}</h6>
       </div>
 
-      <h6><a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a><\h6>
+      <h6><a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a></h6>
     </article>
   {% endfor %}
 </div>
