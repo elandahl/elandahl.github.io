@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Seminar: "Wearables in Health Care" Monday October 9
+title: Seminar "Wearables in Health Care" Monday October 9
 ---
 
 *Sensors and analytics for wearable devices in research and clinical settings*  
