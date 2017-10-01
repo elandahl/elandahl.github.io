@@ -1,6 +1,6 @@
 ---
 layout: post
-title: AM Inspirations: Get inspired at the IRL
+title: AM Inspirations, Get inspired at the IRL
 ---
 
 *Enjoy coffee and donuts while sharing project ideas*
