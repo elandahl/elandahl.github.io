@@ -1,6 +1,6 @@
 ---
 layout: post
-title: AM Inspirations, Get inspired at the IRL
+title: AM Inspirations, Get inspired at the IRL Friday October 6
 ---
 
 *Enjoy coffee and donuts while sharing project ideas*
