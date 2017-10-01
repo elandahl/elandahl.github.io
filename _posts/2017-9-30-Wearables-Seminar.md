@@ -10,15 +10,19 @@ title: Seminar: "Wearables in Health Care" Monday October 9
 
 **Byrne 208**
 {: style="text-align: center"}
+
 2219 N. Kenmore Avenue
 {: style="text-align: center"}
 
 **Mark V. Albert, PhD**
 {: style="text-align: center"}
+
 Assistant Professor of Computer Science, Loyola University Chicago
 {: style="text-align: center"}
+
 Adjunct research scientist in the Center for Bionic Medicine at the Shirley Ryan AbilityLab (formerly the Rehabilitation Institute of Chicago),
 {: style="text-align: center"}
+
 Adjunct assistant professor of Physical Medicine and Rehabilitation, Northwestern University Feinberg School of Medicine
 {: style="text-align: center"}
 
