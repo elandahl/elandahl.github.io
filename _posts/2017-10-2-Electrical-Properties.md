@@ -7,7 +7,7 @@ title: New class "Electrical Properties of Materials" offered Winter 2018
 
 ## **PHY 391/491: Electrical Properties of Materials**
 
-### *Open to students of all majors who have some introductory courswork in math and science.  Computer science students especially encouraged!*
+### *Open to students of all majors who have some introductory coursework in math and science.  Computer science students especially encouraged!*
  
 Tuesdays and Thursdays 4:20 - 5:50 pm, Winter Quarter 2018, Byrne Hall Room 202, Lincoln Park Campus
 
