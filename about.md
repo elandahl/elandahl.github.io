@@ -8,7 +8,7 @@ permalink: /about/
 
 [View the blog](https://elandahl.github.io/)
 
-[Subscribe](https://tinyletter.com/elandahl)
+[Subscribe](https://groups.google.com/forum/#!forum/depaul-makes/join)
          
 ### Contributions and Comments
 
