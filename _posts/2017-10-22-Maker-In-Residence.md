@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Maker-In-Residence at the Maker Hub Fridays Fall Quarter
+title: Maker-In-Residence at the Maker Hub Fridays
 ---
 
 *Get expert help for your classes, projects, clubs, and research!*
