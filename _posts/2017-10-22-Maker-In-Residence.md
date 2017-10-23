@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Maker-In-Residence Starts Friday October 20
+title: Maker-In-Residence at the Maker Hub Fridays Fall Quarter
 ---
 
 *Get expert help for your classes, projects, clubs, and research!*
