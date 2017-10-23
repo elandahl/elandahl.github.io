@@ -8,7 +8,7 @@ title: 3D printing, woodshop, vinyl and laser cutter training this week
  
 ### [Monday October 23 7:00 pm Vinyl Workshop and Authorization](https://www.eventbrite.com/e/vinyl-cutter-workshop-1023-tickets-38553435363?aff=efbeventtix)
 
-### [Tuesday October 24 3:00 pm Woodworking Workshop and Powertool Authorization](https://www.eventbrite.com/e/woodshop-workshop-tickets-39090193822)
+### [Tuesday October 24 3:00 pm Woodworking and Powertool Authorization](https://www.eventbrite.com/e/woodshop-workshop-tickets-39090193822)
 
 ### [Wednesday October 25 4:00 pm 3D Printing Workshop and Authorization](https://www.eventbrite.com/e/3d-printer-workshop-1025-tickets-38774189645?aff=efbeventtix)
 
