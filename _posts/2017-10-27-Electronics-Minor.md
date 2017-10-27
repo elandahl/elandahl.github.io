@@ -21,6 +21,8 @@ title: Undergraduate Minor in Electronics
 
 ### THREE ADDITIONAL PHYSICS COURSES 
 
+---
+
 For further information please contact:
 
 DePaul University Physics Department
