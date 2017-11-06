@@ -11,7 +11,7 @@ Fabricio S. Marin is a fifth-year student at DePaul University where he is major
 
 This project was motivated by the need for precise control over a telescope’s orientation. In astrophotography or long-exposure imaging, the object of interest needs to stay in frame for long intervals of time, but due to the earth’s rotation and the telescope’s magnification, the image quickly drifts out of frame. Astrophotography becomes increasingly difficult to do unless the motion of the object in frame is offset by some tracking mechanism.
 
-![Original Telescopet](elandahl.github.io/images/FM1.jpg "Original Telescope")
+![Original Telescope](elandahl.github.io/images/FM1.jpg "Original Telescope")
 
 The altazimuth and azimuthal axis both need to be motorized.  Fabricio designed and 3D-printed a geared ring to be connected to the altazimuth axis and secured a timing belt to the outer edge of the base of the telescope mount to serve as a geared ring for the azimuth axis. 
 
