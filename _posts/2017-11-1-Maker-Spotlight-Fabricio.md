@@ -5,7 +5,7 @@ title: DePaul Maker Spotlight on Fabricio Marin, Engineering Physics student and
 
 *Auto-tracking telescope using 3D printed gears and controlled using a Raspberry Pi*  
 
-Fabricio S. Marin is a fifth-year student at DePaul University where he is majoring in Physics with a concentration in Electrical Engineering. In the 2015 he worked at DePaul University’s laser laboratory and at Argonne National Labs the next year. His interests gravitate towards controls systems andautomation. In his spare time, he makes devices used for imaging and home automation.
+Fabricio S. Marin is a fifth-year student at DePaul University where he is majoring in Physics with a concentration in Electrical Engineering. In the 2015 he worked at DePaul University’s laser laboratory and at Argonne National Labs the next year. His interests gravitate towards controls systems and automation. In his spare time, he makes devices used for imaging and home automation.
 
 ### Telescope Tracker Project
 
