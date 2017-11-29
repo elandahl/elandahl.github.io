@@ -3,7 +3,7 @@ layout: post
 title: Maker Hub December Hours
 ---
 
-*The Richardson Library Maker Hub will be open for reduced hours through December 15*  
+*The Richardson Library Maker Hub will be open for reduced hours through December*  
 
 **Tuesdays 1 - 5 pm**
 {: style="text-align: center"}
