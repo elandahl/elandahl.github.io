@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Maker Space training workshops this week
+title: Maker Space training workshops Winter Quarter
 ---
 
 *Get trained and authorized to use equipment at the IRL*
