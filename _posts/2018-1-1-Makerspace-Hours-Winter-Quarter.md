@@ -26,11 +26,11 @@ The IRL is located at 14 E. Jackson, 3rd floor.  More information is available o
 
 The Lincoln Park Campus Maker Hub provides 3D printing, 3d scanning, sewing, wood working, and professional-grade audio and video recording studios.
 
-***Tuesdays TBA***
+***Tuesdays 11 am - 2 pm***
 
 ***Wednesdays 9 am - noon and 1 - 4 pm***
 
-***Thursdays TBA***
+***Thursdays 2 pm - 5 pm***
 
 The Maker Hub is located at the Richardson Library on the Lincoln Park Campus, 2nd floor, 2350 N Kenmore Ave.
 
