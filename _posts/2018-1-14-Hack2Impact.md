@@ -26,3 +26,5 @@ Idea Realization Lab
 Room 310
 
 Chicago, IL 60614
+
+![Hack2Impact](/images/ProjectFlyer.jpg "Hack2Impact")
