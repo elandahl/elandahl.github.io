@@ -27,4 +27,4 @@ Room 310
 
 Chicago, IL 60614
 
-![flyer](/images/PartnerFlyer.pdf "Hack2Impact").
+![flyer](/images/PartnerFlyer.pdf "Hack2Impact")
