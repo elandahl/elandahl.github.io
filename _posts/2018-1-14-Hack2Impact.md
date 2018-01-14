@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Hack2Impact, a hackathon for social good at the IRL in February
+title: Hack2Impact, a hackathon for social good
 ---
 
 *Create solutions to issues facing the Chicago community in mentored teams*
