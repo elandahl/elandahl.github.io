@@ -26,7 +26,7 @@ The IRL is located at 14 E. Jackson, 3rd floor.  More information is available o
 
 The Lincoln Park Campus Maker Hub provides 3D printing, 3d scanning, sewing, wood working, and professional-grade audio and video recording studios.
 
-***Tuesdays 11 am - 2 pm***
+***Mondays 11 am - 2 pm***
 
 ***Wednesdays 9 am - noon and 1 - 4 pm***
 
