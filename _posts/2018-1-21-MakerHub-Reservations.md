@@ -7,11 +7,11 @@ title: Library Maker Hub Reservations
 
 The Richarson Library Maker Hub and adjacent meeting rooms Idea Labs 1 and 2 may now be reserved by faculty, staff, or student organizations at [https://libcal.depaul.edu/](https://libcal.depaul.edu/).
  
-In addition to reservations, the Maker Hub is open and staffed during Winter Quarter at the hours listed below.
+The Lincoln Park Campus Maker Hub provides 3D printing, 3d scanning, sewing, wood working, and professional-grade audio and video recording studios.In addition to reservations, the Maker Hub is open and staffed during Winter Quarter at the hours listed below.
+
+
 **LPC Maker Hub**
 {: style="text-align: center"}
-
-The Lincoln Park Campus Maker Hub provides 3D printing, 3d scanning, sewing, wood working, and professional-grade audio and video recording studios.
 
 ***Mondays 11 am - 2 pm***
 
