@@ -1,9 +1,11 @@
 ---
 layout: post
-title: Hack2Impact, a hackathon for social good
+title: Register now for Hack2Impact, a hackathon for social good
 ---
 
 *Create solutions to issues facing the Chicago community in mentored teams*
+
+[**Registration is now open**](https://www.eventbrite.com/e/hack2impact-a-hackathon-for-social-good-tickets-42428142717)
 
 Over the last weekend in February, students and alumni of several Chicago-area schools will come together and form teams of diverse talents, from developers and engineers, to designers and business students.
 
