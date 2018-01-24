@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Student Inovation Expo Competition is accepting submissions
+title: Student Innovation Expo Competition is accepting submissions
 ---
 
 *Showcase things you have made, and bring your ideas to life*  
