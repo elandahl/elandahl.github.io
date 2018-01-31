@@ -3,9 +3,9 @@ layout: post
 title: Begin your Electronics Minor Spring Quarter with Intro to Digital Electronics
 ---
 
-*This minor will teach you to troubleshoot and create basic electronic circuits*
+*No previous Physics or Electronics experience required*
 
-Students may start the minor with either PHY 232 (Introduction to Digital Electronics), offered Spring Quarter, or PHY 110 (Basic Electronics), offered Autumn Quarter.
+This minor will teach you to design and troubleshoot electronic circuits.  Students may start the minor with either PHY 232 (Introduction to Digital Electronics), offered Spring Quarter, or PHY 110 (Basic Electronics), offered Autumn Quarter.
 
 ## Spring Quarter Meeting Times for PHY 232 ##
 
