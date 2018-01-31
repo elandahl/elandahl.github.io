@@ -13,3 +13,4 @@ The Media Studios are adjacent to the Maker Hub and meeting rooms Idea Labs 1 an
 
 The Media Studios are located at the Richardson Library on the Lincoln Park Campus, 2nd floor, 2350 N Kenmore Ave.
 
+![flyer](/images/mediastudios.jpg "Media Studios")
