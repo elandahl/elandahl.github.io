@@ -7,7 +7,7 @@ title: Begin your Electronics Minor Spring Quarter with Intro to Digital Electro
 
 Students may start the minor with either PHY 232 (Introduction to Digital Electronics), offered Spring Quarter, or PHY 110 (Basic Electronics), offered Autumn Quarter.
 
-## Spring Quarter Meeting Times for PHY 232##
+## Spring Quarter Meeting Times for PHY 232 ##
 
 *Mondays 1:00 - 4:10 and Wednesdays 1:00 - 2:30*
 
