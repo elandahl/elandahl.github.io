@@ -16,7 +16,7 @@ This minor will teach you to design and troubleshoot electronic circuits.  Stude
 *No previous Physics or Electronics coursework or experience required*
 
 
-## Course descriptions
+## Electronics Minor requirements and course descriptions ##
 
 ### PHY 110 BASIC ELECTRONICS: PRINCIPLES & TECHNIQUES
 
