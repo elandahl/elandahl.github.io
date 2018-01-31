@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Begin your Electronics Minor Spring Quarter with Intro to Digital Electronics
+title: Begin your Electronics Minor this Spring with Intro to Digital Electronics
 ---
 
 *No previous Physics or Electronics experience required*
