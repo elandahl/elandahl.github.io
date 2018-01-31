@@ -1,11 +1,22 @@
 ---
 layout: post
-title: Undergraduate Minor in Electronics
+title: Begin your Electronics Minor Spring Quarter with Intro to Digital Electronics
 ---
 
 *This minor will teach you to troubleshoot and create basic electronic circuits*
 
-## Course requirements
+Students may start the minor with either PHY 232 (Introduction to Digital Electronics), offered Spring Quarter, or PHY 110 (Basic Electronics), offered Autumn Quarter.
+
+## Spring Quarter Meeting Times for PHY 232##
+
+*Mondays 1:00 - 4:10 and Wednesdays 1:00 - 2:30*
+
+*Electronics Lab and Studio Classroom, Byrne Hall, Lincoln Park*
+
+*No previous Physics or Electronics coursework or experience required*
+
+
+## Course descriptions
 
 ### PHY 110 BASIC ELECTRONICS: PRINCIPLES & TECHNIQUES
 
