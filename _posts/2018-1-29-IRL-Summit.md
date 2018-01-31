@@ -13,7 +13,7 @@ Dive into the world of hacking for good and hear from Chicago community leaders 
 
 ### Distinguished Panelists ###
 
-- * Kickoff Speaker: * Drew Fustini (Open Source Hardware designer at OSH Park)
+- Kickoff Speaker: Drew Fustini (Open Source Hardware designer at OSH Park)
 - Christina Pei (who runs Northside Mini Maker Faire)
 - Jackie Moore (who runs Southside Mini Maker Faire)
 - Andrew Camardella (President of Pumping Station: One)
