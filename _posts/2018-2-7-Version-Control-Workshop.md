@@ -5,7 +5,7 @@ title: Time Travel Software with GitHub and SciUnit
 
 *Feb. 9 workshop on creating portable, reusable software*  
 
-###Friday February 9###
+### Friday February 9 ###
 
 ### 2:00 - 5:00 pm ###
 
@@ -16,4 +16,4 @@ title: Time Travel Software with GitHub and SciUnit
 - Introducing 'Containerization'
 - How to create and manage portable, reusable software with [SciUnit](https://sciunit.run/)
 
-![flyer](/images/TimeTravel.pdf)
+![flyer](/images/TimeTravel.jpg)
