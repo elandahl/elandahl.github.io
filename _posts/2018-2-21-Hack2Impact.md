@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Register now for Hack2Impact, a hackathon for social good
+title: Feb. 23-24-25, Hack2Impact, a hackathon for social good
 ---
 
 *Create solutions to issues facing the Chicago community in mentored teams*
