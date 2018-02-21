@@ -16,4 +16,4 @@ title: Time Travel Software with GitHub and SciUnit
 - Introducing 'Containerization'
 - How to create and manage portable, reusable software with [SciUnit](https://sciunit.run/)
 
-![flyer](/images/TimeTravel2.jpg)
+![flyer](/images/time_travel2.jpg)
