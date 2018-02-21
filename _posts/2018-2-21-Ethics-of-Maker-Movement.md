@@ -5,9 +5,9 @@ title: Seminar on Ethics of the Maker Movement
 
 *March 7 Seminar on Ethics, The Maker Movement, and 3D Printing*  
 
-### Dr. Daryl Koehn, Philosophy Department ###
+## Dr. Daryl Koehn, Philosophy Department ##
 
-## Managing Director, Institute for Business and Professional Ethics ###
+## Managing Director, Institute for Business and Professional Ethics ##
 
 ### Wednesday March 7 ###
 
