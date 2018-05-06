@@ -1,13 +1,13 @@
 ---
 layout: post
-title: Start an Electronics Minor with "PHY 110, Basic Electronis" Fall Quarter
+title: Start an Electronics Minor with "PHY 110, Intro To Electronics" Fall Quarter
 ---
 
 ![flyer](/images/Electronics_Flyer.png "Electronics_Flyer.png")
 
 *Revamped course satisfies science lab requirement and teaches IOT, robotics, Arduinos, and more*
 
-## **PHY 110: Basic Electronics**
+## **PHY 110: Introduction to Electronics**
 
 ### *Only pre-requisite is either LSP 120, HON 180, or MAT 130+*
  
