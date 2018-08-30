@@ -5,8 +5,6 @@ title: Industrial Gentrification -- A Discussion with Winifred Curran
 
 *Wednesday September 19, 3 - 4 PM, [Idea Realization Lab](http://irl.depaul.edu/)*
 
-![flyer](/images/bluelacuna.jpg "bluelacuna.jpg")
-
 ### [Open to the public, reserve tickets now](https://www.eventbrite.com/e/industrial-gentrification-a-discussion-with-winifred-curran-tickets-49707287836)
 
 Join the staff and class of LSP 111: The Maker Movement in Chicago for a talk and discussion with Prof. Winifred Curran on the topics of industrial gentrification and sustainable urban development.
