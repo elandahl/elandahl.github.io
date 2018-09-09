@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Field Trip to Blue Lacuna Community Development Space
+---
 
 *Monday September 17, 2 - 4 PM, Leaving from 14 E. Jackson*
 
